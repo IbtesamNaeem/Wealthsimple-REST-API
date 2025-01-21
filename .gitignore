@@ -1,0 +1,5 @@
+wealthsimple_api-env/
+.env
+
+__pycache__/
+*.py[cod]
